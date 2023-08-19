@@ -1,0 +1,10 @@
+{
+    "telegram_bot_token": "6573650911:AAG9j8G8T8ZlVxmLRYyjNUDmBxAfyPHRC_s",
+    "additionalText": "\nThis bot is currently in an alpha testing state, as with all new software, there may be unexpected bugs these are being logged and constantly looked into. Thank you for your understanding.",
+    "admin_ids": [
+        1528487677
+    ],
+    "LOGGERBOT_TOKEN": "6258503911:AAFgh9NGi1C1gj8TEbJXYdJXR3wIy-zkQhs",
+    "LOGGERBOT_GROUP_ID": "-721540782",
+    "etherscan_api_key": ""
+}
